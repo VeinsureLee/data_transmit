@@ -1,0 +1,16 @@
+# 忽略 JetBrains IDE 配置文件（如 PyCharm, IntelliJ）
+.idea/
+
+# 忽略数据库文件夹
+db/
+
+# 忽略增量数据库及其子文件夹
+incremental_db/
+
+# 忽略输出文件目录
+output_files/
+
+# 忽略模拟文件夹
+simulation/modelsim/
+
+*.v.bak
